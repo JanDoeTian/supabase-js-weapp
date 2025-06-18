@@ -1,4 +1,4 @@
-import { GoTrueClient } from '@supabase/gotrue-js'
+import { GoTrueClient } from '@supabase/gotrue-js-weapp'
 import { RealtimeClientOptions } from '@supabase/realtime-js'
 
 type GoTrueClientOptions = ConstructorParameters<typeof GoTrueClient>[0]
