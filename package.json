@@ -1,7 +1,7 @@
 {
-  "name": "@supabase/supabase-js",
-  "version": "2.0.1",
-  "description": "Isomorphic Javascript client for Supabase",
+  "name": "@supabase/supabase-js-weapp",
+  "version": "1.0.0",
+  "description": "Weapp Javascript client for Supabase",
   "keywords": [
     "javascript",
     "typescript",
